@@ -1,0 +1,54 @@
+.container {
+    width: 90%;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(178, 247, 178);
+    border: 1px solid black;
+  }
+  
+  #heading {
+    text-align: center;
+  }
+  
+  form {
+    padding: 10px;
+  }
+  
+  fieldset {
+    width: 80%;
+    height: 230px;
+    border: 1px solid rgb(243, 104, 104);
+    padding: 15px;
+  }
+  
+  legend {
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="tel"],
+  textarea {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+
+ .table-div{
+    padding: 10px;
+ }
+
+ table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 10px;
+  }
+
+  .text-button{
+    padding-left: 10px;
+    padding-bottom: 10px;
+  }
+  
+  
